@@ -12,7 +12,6 @@ The project is mostly completed by Guo Jiarui, Peking University. We also apprec
 # Who can use the documents in this project
 Anyone, once he/she is willing to indicate the source is allowed to use them for free. However, we reserve the right to blame those who sell these materials for profit. 
 
-
-
+## Editor
 Guo Jiarui
 6th January, 2021
