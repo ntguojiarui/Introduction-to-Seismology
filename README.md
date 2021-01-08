@@ -19,3 +19,12 @@ Anyone, once he/she is willing to indicate the source is allowed to use them for
 Guo Jiarui
 
 6th January, 2021
+
+### Updated at 8th January, 2021
+* 2.2.e ``天然地震的额震源破裂''应为``天然地震的震源破裂''. 
+* 4.2 ``地震点额首波''应为``地震点的首波''.
+* 5.8 $\lg E = 11.8 + 1.5\lg M$应为$\lg E = 11.8 + 1.5M$.
+* 5.11 ``我国最大的水库地震时''应为``我国最大的水库地震是''.
+* 8.2 ``建筑物的抗震设计通常是在一定地震的前提''应为``建筑物的抗震设计通常是在一定地震烈度的前提''.
+
+We apologize for our carelessness in our project. 
