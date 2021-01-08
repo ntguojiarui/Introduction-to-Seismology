@@ -1,8 +1,7 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # Introduction-to-Seismology
 Review materials for Introduction to Seismology
 
-Copyright Guo Jiarui, Peking University, all right reserved
+Copyright Guo Jiarui, Peking University, all rights reserved
 
 ## What is it about
 This project can be review materials for students who are to take the final exam of the course Introduction to Seismology. It can also served as a project for those who want to get more knowledge in this field. 
